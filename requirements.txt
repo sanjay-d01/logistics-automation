@@ -1,0 +1,5 @@
+schedule
+mysql-connector-python
+pandas
+matplotlib
+python-dotenv
