@@ -42,6 +42,12 @@ The project automatically fetches shipment data from MySQL, performs data cleani
 - Automation and scheduling
 - Business reporting
 
+
+  ## 🏗️ Project Architecture
+
+![Logistics Automation Architecture](logistics_automation_architecture.png)
+
+
 ## 📁 Project Structure
 
 ```text
