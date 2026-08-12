@@ -53,5 +53,8 @@ The project automatically fetches shipment data from MySQL, performs data cleani
 ```text
 logistics-automation/
 │
+├── .env.example
+├── README.md
+├── logistics_automation_architecture.png
 ├── logistics_automation_report.py
-└── README.md
+└── requirements.txt
